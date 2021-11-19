@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/djk3000/ipaCreate/raw/main/ByteDance.ipa</string>
+					<string>https://github.com/black2w/ipainstall/blob/main/ByteDance.ipa</string>
 				</dict>
 				<dict>
-				     	<key>kind</key>
-				     	<string>display-image</string>
-				     	<key>url</key>
-				     	<string>https://github.com/djk3000/ipaCreate/raw/main/turtlerock.jpg</string>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://github.com/djk3000/ipaCreate/raw/main/turtlerock.jpg</string>
 				</dict>
 				<dict>
-				     	<key>kind</key>
-				     	<string>full-size-image</string>
-				     	<key>url</key>
-				     	<string>https://github.com/djk3000/ipaCreate/raw/main/turtlerock.jpg</string>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://github.com/djk3000/ipaCreate/raw/main/turtlerock.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
